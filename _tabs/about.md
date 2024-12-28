@@ -6,7 +6,7 @@ order: 4
 
 ### Welcome
 
-I'm Ernest Sarfo, an SWE from Ghana who likes to write software that doesn't suck.
+I'm Ernest Sarfo, a Software Engineer from Ghana(🇬🇭) who likes to write software that doesn't suck.
 
 Here is where I publish my thoughts on software and other things.
 
