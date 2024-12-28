@@ -6,6 +6,7 @@ categories:
 tags:
   - simplicity
   - overengineering
+comments: true
 ---
 
 Picture this: I'm sitting at my desk, looking at the same piece of code for the third day in a row. I've been trying to implement this feature that should, in theory, be straightforward. But instead, I'm so deep in complex logic, dumb algorithms and a few questionable lifechoices. My brain is also fried because of this.
