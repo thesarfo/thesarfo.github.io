@@ -7,6 +7,8 @@ tags:
   - primitive obsession
   - refactoring
   - code smells
+comments: true
+image: /assets/headers/primitive-obsession.webp
 ---
 
 Every line of code tells a story, and sometimes, that story carries a whiff of trouble — like the unmistakable scent of a code smell. You know the feeling — a sneaky suspicion that your code could use some refinement, but where do you start? Enter the world of primitive obsession, a code smell that might be quietly sabotaging your code quality without you even realizing it.
