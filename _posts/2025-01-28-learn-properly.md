@@ -24,7 +24,7 @@ These paths lead to very different outcomes, and when they blur together, the re
 ### Reject Quick Fixes and Snackable Content  
 For those who genuinely want to learn, it’s important to reject the appeal of “snackable” content. Quick blog posts, “Learn X in 10 minutes” tutorials, and bite-sized social media threads may provide surface-level knowledge, but they rarely foster the depth needed for expertise. Instead, you need to embrace the longform: textbooks, documentation, academic papers, and detailed manuals.  
 
-Allocate focused time—several hours, if possible—and engage actively with the material. Take notes. Re-read sections. Rephrase ideas in your own words. Process, manipulate, and truly internalize what you’re learning. This approach will serve you way better than passively scrolling throughj shallow resources.  
+Allocate focused time—several hours, if possible—and engage actively with the material. Take notes. Re-read sections. Rephrase ideas in your own words. Process, manipulate, and truly internalize what you’re learning. This approach will serve you way better than passively scrolling through shallow resources.  
 
 ### The Path to Expertise  
 If your goal is to become an expert in a field, your journey requires structure, discipline, and focus. Here’s a framework to guide you:  
