@@ -76,7 +76,9 @@ public class ExceptionBenchmark {
 
 In typical runs, the conditional check version executes magnitudes faster than the version that throws exceptions. Although the exact numbers may vary based on the JVM and hardware, this example shows the performance difference.
 
-> :bulb: Microbenchmarks in Java are surprisingly hard to get right (so I've heard), especially when you get into JIT territory, so take this with a pinch of salt :)
+{: .prompt-tip }
+> 💡 **Microbenchmarks in Java are surprisingly hard to get right** (so I've heard), especially when you get into JIT territory, so take this with a pinch of salt. 🙂
+
 
 
 But are these actually factual? perhaps
