@@ -2,7 +2,7 @@
 layout: post
 title: "Memory & Performance Overheads with Java Exceptions"
 categories:
-  - java
+  - code/java
 comments: true
 --- 
 
