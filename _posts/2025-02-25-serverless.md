@@ -171,7 +171,7 @@ It's still early days for this technology, but I believe we're moving toward tru
 
 After building quite a number of serverless applications, here's what I wish someone had told me from the start:
 
-1. **Read the fine print** - The subtleties of Lambda's execution model, event sources, and integration points matter tremendously. What seems like a small detail in the docs can have major implications in production.
+1. **Read the docs** - The subtleties of Lambda's execution model, event sources, and integration points matter tremendously. What seems like a small detail in the docs can have major implications in production.
 
 2. **Think differently about architecture** - The best serverless solutions don't just lift-and-shift traditional patterns. They embrace the unique characteristics of managed services.
 
