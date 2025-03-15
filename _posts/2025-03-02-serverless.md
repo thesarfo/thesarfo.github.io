@@ -2,7 +2,7 @@
 layout: post
 title: "Serverless Architecture: What I've Learned the Hard Way"
 categories:
-  - cloud/aws
+  - aws
 tags:
   - aws
 image: /assets/headers/serverless.png
