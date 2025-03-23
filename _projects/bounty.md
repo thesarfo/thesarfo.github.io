@@ -18,8 +18,6 @@ github_link: https://github.com/thesarfo/bounty
     - [Generate SQL Scripts](#generate-sql-scripts)
     - [Quarkus - Panache](#quarkus)
     - [Micronaut](#micronaut)
-    - [JUnit Test Data](#junit-test-data)
-    - [REST API Mock Data](#rest-api-mock-data)
 - [Advanced Usage](#advanced-usage)
 
 
