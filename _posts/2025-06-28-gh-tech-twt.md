@@ -28,4 +28,4 @@ I’ve learned to protect my space. It’s okay to build quietly, to share when 
 
 Until we unlearn this toxic superiority complex, we’ll keep stifling the very people we need to push it forward. We need less ego, more empathy. Less gatekeeping, more guidance. And maybe, just maybe, the next wave of builders won’t have to think twice about sharing their journey.
 
-Also, maybe I really have impostor syndrome and I suck at doing this, in that case everything I've said above is just an emotional rant.
+Also, maybe I really have impostor syndrome and I suck at doing this, in that case everything I've said above is nothing but a half-assed emotional rant.
