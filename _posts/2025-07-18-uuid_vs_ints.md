@@ -22,7 +22,7 @@ It gives me the best of both worlds:
 
 Is this the "best" way? Maybe. Maybe not. But it’s good enough for 99% of systems we’re building.
 
-## What abut distributed systems?
+## What about distributed systems?
 
 Now this is where things get interesting. Auto-increment IDs work fine… until you start scaling horizontally. In a distributed setup, that auto-increment is tied to a single node or thread. So unless you’re coordinating sequences (which is messy), you’ll run into problems.
 
